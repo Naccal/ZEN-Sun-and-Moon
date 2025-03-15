@@ -1,0 +1,17 @@
+{
+  "name": "moon-sun-widget",
+  "title": "Moon Sun Widget",
+  "url": "https://github.com/naccal/ZEN-Sun-and-Moon",
+  "description": "Displays a sun or moon based on the time of day.",
+  "version": "1.0.0",
+  "author": "Zorai Amethyst, Naccal",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "scripts": ["scripts/moon-sun.js"],
+  "styles": ["styles/moon-sun.css"],
+  "esmodules": [],
+  "packs": [],
+  "languages": []
+}
