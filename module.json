@@ -17,6 +17,7 @@
     }
   ],
   "url": "https://github.com/Naccal/ZEN-Sun-and-Moon",
+  "manifest": "https://raw.githubusercontent.com/Naccal/ZEN-Sun-and-Moon/refs/heads/main/module.json",
   "scripts": ["scripts/moon-sun.js"],
   "styles": ["styles/moon-sun.css"],
   "esmodules": [],
