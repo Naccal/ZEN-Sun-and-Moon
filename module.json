@@ -1,6 +1,7 @@
 {
   "name": "moon-sun-widget",
   "title": "Moon Sun Widget",
+  "id": "MoonAndSun",
   "url": "https://github.com/naccal/ZEN-Sun-and-Moon",
   "description": "Displays a sun or moon based on the time of day.",
   "version": "1.0.0",

@@ -1,4 +1,3 @@
-// scripts/moon-sun.js
 Hooks.on("ready", () => {
   if (game.user.isGM) {
     game.settings.register("moon-sun-widget", "timeOfDay", {
