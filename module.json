@@ -16,12 +16,10 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/Naccal/ZEN-Sun-and-Moon"
-  },
+  "url": "https://github.com/Naccal/ZEN-Sun-and-Moon",
   "scripts": ["scripts/moon-sun.js"],
   "styles": ["styles/moon-sun.css"],
   "esmodules": [],
   "packs": [],
   "languages": []
-  },
 }
